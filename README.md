@@ -6,7 +6,8 @@ Flutter Car Showroom App
 2. CarCard – Represents each car with a card containing an image, model name, and an ExpansionTile for full details.
 
 ## UI Preview
-![expansion_tile](https://github.com/user-attachments/assets/1448d146-2049-4574-b254-d7812e57413a)
+![expansion_tile_ui](https://github.com/user-attachments/assets/dda7b6c2-d412-4660-b33c-e43a5a86e9c4)
+
 
 
 ## How to Run
