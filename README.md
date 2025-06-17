@@ -1,16 +1,27 @@
-# expansion_tile
+# expansion_tile Widget
 
-A new Flutter project.
+Flutter Car Showroom App
 
-## Getting Started
+1. CarShowroomScreen – Displays a scrollable list of car cards with image, name, and expandable details.
+2. CarCard – Represents each car with a card containing an image, model name, and an ExpansionTile for full details.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure Flutter is installed and set up.
+2. Clone or copy the project files.
+3. Run the app using the following command:
+
+```bash
+flutter run
+```
+
+NOTE: Ensure a device or emulator is connected.
+
+## Key Attributes Used
+
+1. ExpansionTile – Lets users expand a section to view more details.
+2. Image.network() – Loads images from a URL with error handling.
+3. ListView.builder() – Efficiently creates a scrollable list of car cards.
+
